@@ -1,0 +1,377 @@
+    7 6.677720437 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0x1e5c A facebook.com
+    8 6.697405200 10.203.96.46 → 10.203.96.113 DNS 88 Standard query response 0x1e5c A facebook.com A 157.240.23.35
+    9 6.699896449 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0xf96e AAAA facebook.com
+   10 6.713479050 10.203.96.46 → 10.203.96.113 DNS 100 Standard query response 0xf96e AAAA facebook.com AAAA 2a03:2880:f137:83:face:b00c:0:25de
+   11 8.717195646 10.203.96.113 → 10.203.96.46 DNS 70 Standard query 0xb0cc A google.com
+   12 8.717221955 10.203.96.113 → 10.203.96.46 DNS 70 Standard query 0x8e31 AAAA google.com
+   13 8.891717795 10.203.96.46 → 10.203.96.113 DNS 86 Standard query response 0xb0cc A google.com A 142.251.221.174
+   14 8.894981829 10.203.96.46 → 10.203.96.113 DNS 98 Standard query response 0x8e31 AAAA google.com AAAA 2404:6800:4007:830::200e
+   17 8.994696749 10.203.96.113 → 10.203.96.46 DNS 88 Standard query 0xae8f PTR 174.221.251.142.in-addr.arpa
+   18 9.096517306 10.203.96.46 → 10.203.96.113 DNS 128 Standard query response 0xae8f PTR 174.221.251.142.in-addr.arpa PTR pnmaaa-au-in-f14.1e100.net
+   42 17.015227778 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0x5df6 A unagi.amazon.in
+   43 17.015279044 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0x4f58 HTTPS unagi.amazon.in
+   44 17.027883396 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0xcd8f A fls-eu.amazon.in
+   45 17.027935743 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0xfe68 HTTPS fls-eu.amazon.in
+   48 17.036345651 10.203.96.46 → 10.203.96.113 DNS 124 Standard query response 0x5df6 A unagi.amazon.in CNAME unagi-eu.amazon.com A 3.254.238.163
+   49 17.039551306 10.203.96.46 → 10.203.96.113 DNS 183 Standard query response 0x4f58 HTTPS unagi.amazon.in CNAME unagi-eu.amazon.com SOA ns-1504.awsdns-60.org
+   51 17.086929298 10.203.96.46 → 10.203.96.113 DNS 311 Standard query response 0xcd8f A fls-eu.amazon.in CNAME fls-eu.amazon.com CNAME gateway.prod.eu-west-1.forester.a2z.com CNAME endpoint.prod.eu-west-1.forester.a2z.com A 54.72.119.64 A 63.34.147.145 A 52.17.51.39 A 34.253.148.73 A 108.128.154.220 A 54.194.35.92 A 54.220.91.53 A 52.212.83.143
+   52 17.086929659 10.203.96.46 → 10.203.96.113 DNS 257 Standard query response 0xfe68 HTTPS fls-eu.amazon.in CNAME fls-eu.amazon.com CNAME gateway.prod.eu-west-1.forester.a2z.com CNAME endpoint.prod.eu-west-1.forester.a2z.com SOA ns-644.awsdns-16.net
+   97 18.484690094 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0x1b17 A www.amazon.in
+   98 18.484783929 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0x0431 HTTPS www.amazon.in
+   99 18.517296462 10.203.96.46 → 10.203.96.113 DNS 213 Standard query response 0x1b17 A www.amazon.in CNAME tp.c95e7e602-frontier.amazon.in CNAME www.amazon.in.edgekey.net CNAME e15322.dsca.akamaiedge.net A 104.121.230.99
+  100 18.517296862 10.203.96.46 → 10.203.96.113 DNS 275 Standard query response 0x0431 HTTPS www.amazon.in CNAME tp.c95e7e602-frontier.amazon.in CNAME www.amazon.in.edgekey.net CNAME e15322.dsca.akamaiedge.net SOA n0dsca.akamaiedge.net
+  151 18.866198962 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x0b6d A www.facebook.com
+  152 18.866300121 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x33fc HTTPS www.facebook.com
+  153 18.886006435 10.203.96.46 → 10.203.96.113 DNS 133 Standard query response 0x0b6d A www.facebook.com CNAME star-mini.c10r.facebook.com A 157.240.23.35
+  154 18.889205507 10.203.96.46 → 10.203.96.113 DNS 204 Standard query response 0x33fc HTTPS www.facebook.com CNAME star-mini.c10r.facebook.com HTTPS HTTPS
+  434 19.491240807 10.203.96.113 → 10.203.96.46 DNS 106 Standard query 0xa1c6 A us-central1-speechifymobile.cloudfunctions.net
+  435 19.491351294 10.203.96.113 → 10.203.96.46 DNS 106 Standard query 0xeff6 HTTPS us-central1-speechifymobile.cloudfunctions.net
+  436 19.544624621 10.203.96.46 → 10.203.96.113 DNS 122 Standard query response 0xa1c6 A us-central1-speechifymobile.cloudfunctions.net A 216.239.36.54
+  437 19.547878036 10.203.96.46 → 10.203.96.113 DNS 166 Standard query response 0xeff6 HTTPS us-central1-speechifymobile.cloudfunctions.net SOA ns1.google.com
+  447 19.588532334 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0x8749 A completion.amazon.in
+  448 19.588670322 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0xf23a HTTPS completion.amazon.in
+  460 19.631931787 10.203.96.46 → 10.203.96.113 DNS 232 Standard query response 0x8749 A completion.amazon.in CNAME tp.7c52cf103-frontier.amazon.in CNAME d1te4nba3jqp0r.cloudfront.net A 18.67.161.18 A 18.67.161.120 A 18.67.161.95 A 18.67.161.71
+  461 19.635155175 10.203.96.46 → 10.203.96.113 DNS 252 Standard query response 0xf23a HTTPS completion.amazon.in CNAME tp.7c52cf103-frontier.amazon.in CNAME d1te4nba3jqp0r.cloudfront.net SOA ns-372.awsdns-46.com
+  844 20.733219441 10.203.96.113 → 10.203.96.46 DNS 82 Standard query 0xa3ce A rukminim2.flixcart.com
+  845 20.733288812 10.203.96.113 → 10.203.96.46 DNS 82 Standard query 0x4c4b HTTPS rukminim2.flixcart.com
+  846 20.771627010 10.203.96.46 → 10.203.96.113 DNS 248 Standard query response 0xa3ce A rukminim2.flixcart.com CNAME rukminim2.flixcart.com.edgekey.net CNAME e127545.b.akamaiedge.net A 23.199.67.121 A 23.199.67.129 A 23.199.67.138 A 23.199.67.131 A 23.199.67.128
+  847 20.774875970 10.203.96.46 → 10.203.96.113 DNS 243 Standard query response 0x4c4b HTTPS rukminim2.flixcart.com CNAME rukminim2.flixcart.com.edgekey.net CNAME e127545.b.akamaiedge.net SOA n0b.akamaiedge.net
+  925 21.001151828 10.203.96.113 → 10.203.96.46 DNS 86 Standard query 0x4b6f A aax-eu.amazon-adsystem.com
+  926 21.001296545 10.203.96.113 → 10.203.96.46 DNS 86 Standard query 0x447e HTTPS aax-eu.amazon-adsystem.com
+  927 21.004152719 10.203.96.113 → 10.203.96.46 DNS 79 Standard query 0xfc94 A unagi-eu.amazon.com
+  928 21.004284370 10.203.96.113 → 10.203.96.46 DNS 79 Standard query 0xf3d8 HTTPS unagi-eu.amazon.com
+  929 21.007796375 10.203.96.46 → 10.203.96.113 DNS 95 Standard query response 0xfc94 A unagi-eu.amazon.com A 3.254.238.163
+  932 21.035061476 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x2f7b A www.google.com
+  933 21.035115944 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x6dda HTTPS www.google.com
+  934 21.045445238 10.203.96.46 → 10.203.96.113 DNS 102 Standard query response 0x4b6f A aax-eu.amazon-adsystem.com A 52.94.223.167
+  935 21.048693099 10.203.96.46 → 10.203.96.113 DNS 171 Standard query response 0x447e HTTPS aax-eu.amazon-adsystem.com SOA ns-1170.awsdns-18.org
+  936 21.048693389 10.203.96.46 → 10.203.96.113 DNS 154 Standard query response 0xf3d8 HTTPS unagi-eu.amazon.com SOA ns-1504.awsdns-60.org
+  937 21.048744671 10.203.96.113 → 10.203.96.46 ICMP 182 Destination unreachable (Port unreachable)
+  939 21.077406502 10.203.96.46 → 10.203.96.113 DNS 90 Standard query response 0x2f7b A www.google.com A 142.251.222.164
+  940 21.080616047 10.203.96.46 → 10.203.96.113 DNS 99 Standard query response 0x6dda HTTPS www.google.com HTTPS
+ 1011 21.793377443 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x44f0 A www.flipkart.com
+ 1012 21.793456128 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0xec40 HTTPS www.flipkart.com
+ 1013 21.828836400 10.203.96.46 → 10.203.96.113 DNS 106 Standard query response 0x44f0 A www.flipkart.com CNAME flipkart.com A 163.53.76.86
+ 1014 21.832062127 10.203.96.46 → 10.203.96.113 DNS 153 Standard query response 0xec40 HTTPS www.flipkart.com CNAME flipkart.com SOA PDNS1.ULTRADNS.NET
+ 1049 22.288740008 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0xcfd7 A bam.nr-data.net
+ 1050 22.288812832 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0x8944 HTTPS bam.nr-data.net
+ 1052 22.332288518 10.203.96.46 → 10.203.96.113 DNS 173 Standard query response 0xcfd7 A bam.nr-data.net CNAME bam.cell.nr-data.net CNAME bam.nr-data.net.cdn.cloudflare.net A 162.247.241.14
+ 1053 22.335502281 10.203.96.46 → 10.203.96.113 DNS 214 Standard query response 0x8944 HTTPS bam.nr-data.net CNAME bam.cell.nr-data.net CNAME fastly-tls12-bam.nr-data.net SOA dns1.p07.nsone.net
+ 1082 22.389260704 10.203.96.113 → 10.203.96.46 DNS 84 Standard query 0x02c2 A www.googletagmanager.com
+ 1083 22.389324420 10.203.96.113 → 10.203.96.46 DNS 84 Standard query 0x46ae HTTPS www.googletagmanager.com
+ 1114 22.433229775 10.203.96.46 → 10.203.96.113 DNS 100 Standard query response 0x02c2 A www.googletagmanager.com A 142.250.77.104
+ 1265 22.767094311 10.203.96.113 → 10.203.96.46 DNS 90 Standard query 0x0dcf A static-assets-web.flixcart.com
+ 1266 22.767219448 10.203.96.113 → 10.203.96.46 DNS 90 Standard query 0x9f86 HTTPS static-assets-web.flixcart.com
+ 1279 22.806669091 10.203.96.46 → 10.203.96.113 DNS 252 Standard query response 0x0dcf A static-assets-web.flixcart.com CNAME static-assets-web.flixcart.com-new.edgekey.net CNAME e127545.h.akamaiedge.net A 23.3.70.40 A 23.3.70.126 A 23.3.70.50 A 23.3.70.201
+ 1280 22.809908556 10.203.96.46 → 10.203.96.113 DNS 263 Standard query response 0x9f86 HTTPS static-assets-web.flixcart.com CNAME static-assets-web.flixcart.com-new.edgekey.net CNAME e127545.h.akamaiedge.net SOA n0h.akamaiedge.net
+ 1336 23.432412498 10.203.96.113 → 10.203.96.46 DNS 86 Standard query 0x773b A sonic.fdp.api.flipkart.com
+ 1337 23.432517775 10.203.96.113 → 10.203.96.46 DNS 86 Standard query 0xbd30 HTTPS sonic.fdp.api.flipkart.com
+ 1338 23.468386141 10.203.96.46 → 10.203.96.113 DNS 102 Standard query response 0x773b A sonic.fdp.api.flipkart.com A 34.36.209.50
+ 1339 23.471599655 10.203.96.46 → 10.203.96.113 DNS 161 Standard query response 0xbd30 HTTPS sonic.fdp.api.flipkart.com SOA PDNS1.ULTRADNS.NET
+ 1364 23.691174653 10.203.96.113 → 10.203.96.46 DNS 88 Standard query 0x4009 A 1.sonic.fdp.api.flipkart.com
+ 1365 23.691251925 10.203.96.113 → 10.203.96.46 DNS 88 Standard query 0xc9cd HTTPS 1.sonic.fdp.api.flipkart.com
+ 1371 23.734706463 10.203.96.46 → 10.203.96.113 DNS 104 Standard query response 0x4009 A 1.sonic.fdp.api.flipkart.com A 34.36.209.50
+ 1372 23.737940688 10.203.96.46 → 10.203.96.113 DNS 163 Standard query response 0xc9cd HTTPS 1.sonic.fdp.api.flipkart.com SOA PDNS1.ULTRADNS.NET
+ 1412 25.054358861 10.203.96.113 → 10.203.96.46 DNS 77 Standard query 0xf3da A www.instagram.com
+ 1413 25.054512943 10.203.96.113 → 10.203.96.46 DNS 77 Standard query 0x395a HTTPS www.instagram.com
+ 1416 25.279332683 10.203.96.46 → 10.203.96.113 DNS 141 Standard query response 0xf3da A www.instagram.com CNAME z-p42-instagram.c10r.instagram.com A 157.240.23.174
+ 1417 25.279333094 10.203.96.46 → 10.203.96.113 DNS 219 Standard query response 0x395a HTTPS www.instagram.com CNAME z-p42-instagram.c10r.instagram.com HTTPS HTTPS
+ 1490 26.797495393 10.203.96.113 → 10.203.96.46 DNS 95 Standard query 0x99ad A optimizationguide-pa.googleapis.com
+ 1491 26.797643191 10.203.96.113 → 10.203.96.46 DNS 95 Standard query 0x098f HTTPS optimizationguide-pa.googleapis.com
+ 1492 26.914590352 10.203.96.46 → 10.203.96.113 DNS 351 Standard query response 0x99ad A optimizationguide-pa.googleapis.com A 142.251.221.202 A 142.251.223.170 A 142.251.223.234 A 142.251.221.138 A 172.217.24.138 A 142.251.43.234 A 142.251.43.138 A 142.251.223.10 A 142.250.67.42 A 142.250.207.74 A 142.250.206.42 A 142.250.183.170 A 142.251.220.106 A 142.250.77.138 A 142.251.222.138 A 172.217.24.10
+ 1493 26.917843368 10.203.96.46 → 10.203.96.113 DNS 155 Standard query response 0x098f HTTPS optimizationguide-pa.googleapis.com SOA ns1.google.com
+ 1527 28.465588113 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0xfee9 A www.youtube.com
+ 1528 28.465694751 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0x444e HTTPS www.youtube.com
+ 1531 28.515583385 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0xb2aa A analytics.google.com
+ 1532 28.515753496 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0x0c3e HTTPS analytics.google.com
+ 1533 28.521167245 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x3d32 A www.google.co.in
+ 1534 28.521251449 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x5445 HTTPS www.google.co.in
+ 1536 28.545586761 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x7073 A cdn.tuko.co.ke
+ 1537 28.545650925 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x82ca HTTPS cdn.tuko.co.ke
+ 1538 28.552233119 10.203.96.46 → 10.203.96.113 DNS 96 Standard query response 0xb2aa A analytics.google.com A 142.251.222.174
+ 1539 28.552233569 10.203.96.46 → 10.203.96.113 DNS 158 Standard query response 0x0c3e HTTPS analytics.google.com CNAME analytics-alv.google.com SOA ns1.google.com
+ 1540 28.552233650 10.203.96.46 → 10.203.96.113 DNS 92 Standard query response 0x3d32 A www.google.co.in A 142.251.43.227
+ 1543 28.555477484 10.203.96.46 → 10.203.96.113 DNS 101 Standard query response 0x5445 HTTPS www.google.co.in HTTPS
+ 1550 28.580845526 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0xd673 A aax.amazon-adsystem.com
+ 1551 28.580904601 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0x2641 HTTPS aax.amazon-adsystem.com
+ 1552 28.582061112 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0xa450 A ads.playstream.media
+ 1553 28.582137220 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0xc3ce HTTPS ads.playstream.media
+ 1554 28.591751256 10.203.96.113 → 10.203.96.46 DNS 71 Standard query 0xfac1 A tt.onthe.io
+ 1555 28.591837053 10.203.96.113 → 10.203.96.46 DNS 71 Standard query 0x37df HTTPS tt.onthe.io
+ 1563 28.624525565 10.203.96.46 → 10.203.96.113 DNS 204 Standard query response 0x82ca HTTPS cdn.tuko.co.ke CNAME d3jx0hbeqtkbt5.cloudfront.net SOA ns-1756.awsdns-27.co.uk
+ 1564 28.624525865 10.203.96.46 → 10.203.96.113 DNS 218 Standard query response 0xd673 A aax.amazon-adsystem.com CNAME aax-dtb-cf.amazon-adsystem.com CNAME aax-dtb-cf.amazon-adsystem.amazon.com CNAME d1jvc9b8z3vcjs.cloudfront.net A 18.161.231.219
+ 1565 28.624525935 10.203.96.46 → 10.203.96.113 DNS 289 Standard query response 0x2641 HTTPS aax.amazon-adsystem.com CNAME aax-dtb-cf.amazon-adsystem.com CNAME aax-dtb-cf.amazon-adsystem.amazon.com CNAME d1jvc9b8z3vcjs.cloudfront.net SOA ns-1690.awsdns-19.co.uk
+ 1566 28.624525995 10.203.96.46 → 10.203.96.113 DNS 96 Standard query response 0xa450 A ads.playstream.media A 34.117.207.17
+ 1567 28.624526066 10.203.96.46 → 10.203.96.113 DNS 181 Standard query response 0x7073 A cdn.tuko.co.ke CNAME d3jx0hbeqtkbt5.cloudfront.net A 18.161.229.56 A 18.161.229.87 A 18.161.229.90 A 18.161.229.27
+ 1568 28.624526136 10.203.96.46 → 10.203.96.113 DNS 156 Standard query response 0xc3ce HTTPS ads.playstream.media SOA walt.ns.cloudflare.com
+ 1592 28.641663485 10.203.96.46 → 10.203.96.113 DNS 151 Standard query response 0xfac1 A tt.onthe.io A 188.40.114.52 A 88.99.5.37 A 188.40.115.112 A 136.243.151.13 A 188.40.115.111
+ 1593 28.644946176 10.203.96.46 → 10.203.96.113 DNS 155 Standard query response 0x37df HTTPS tt.onthe.io SOA ns-839.awsdns-40.net
+ 1595 28.646554116 10.203.96.113 → 10.203.96.46 DNS 82 Standard query 0xa3b1 A hbopenbid.pubmatic.com
+ 1596 28.646606347 10.203.96.113 → 10.203.96.46 DNS 82 Standard query 0x1eea HTTPS hbopenbid.pubmatic.com
+ 1598 28.647537981 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0x7b04 A rtb.openx.net
+ 1599 28.647597978 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0x3ef2 HTTPS rtb.openx.net
+ 1600 28.653210954 10.203.96.113 → 10.203.96.46 DNS 82 Standard query 0x52fa A prebid.smilewanted.com
+ 1601 28.653343312 10.203.96.113 → 10.203.96.46 DNS 82 Standard query 0x0940 HTTPS prebid.smilewanted.com
+ 1602 28.662472723 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0xbde2 A fastlane.rubiconproject.com
+ 1603 28.662598298 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0x6478 HTTPS fastlane.rubiconproject.com
+ 1604 28.663513319 10.203.96.113 → 10.203.96.46 DNS 70 Standard query 0xc446 A mp.4dex.io
+ 1605 28.663595198 10.203.96.113 → 10.203.96.46 DNS 70 Standard query 0xdb55 HTTPS mp.4dex.io
+ 1606 28.668293835 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0xa530 A prebid.media.net
+ 1607 28.668381255 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0xd529 HTTPS prebid.media.net
+ 1621 28.669945991 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0xd0c0 A ittr-asia.eskimi.com
+ 1622 28.670032589 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0x5cc4 HTTPS ittr-asia.eskimi.com
+ 1629 28.675417702 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0xe6cb A g2.gumgum.com
+ 1630 28.675496395 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0xcfc0 HTTPS g2.gumgum.com
+ 1631 28.676707162 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0x90b2 A htlb.casalemedia.com
+ 1632 28.676776417 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0xf8a1 HTTPS htlb.casalemedia.com
+ 1635 28.678529389 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0x0597 A shb.richaudience.com
+ 1636 28.678614305 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0x5b80 HTTPS shb.richaudience.com
+ 1639 28.684296185 10.203.96.113 → 10.203.96.46 DNS 78 Standard query 0xc1ea A server.cpmstar.com
+ 1640 28.684375901 10.203.96.113 → 10.203.96.46 DNS 78 Standard query 0x5b35 HTTPS server.cpmstar.com
+ 1641 28.688482765 10.203.96.113 → 10.203.96.46 DNS 82 Standard query 0x4315 A grid-bidder.criteo.com
+ 1642 28.688548753 10.203.96.113 → 10.203.96.46 DNS 82 Standard query 0xb478 HTTPS grid-bidder.criteo.com
+ 1643 28.690176021 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0x911f A ap.lijit.com
+ 1644 28.690234154 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0x47b9 HTTPS ap.lijit.com
+ 1645 28.691932290 10.203.96.46 → 10.203.96.113 DNS 165 Standard query response 0xa3b1 A hbopenbid.pubmatic.com CNAME hbprebid-v3.pubmnet.com CNAME hbopenbid-sin12.pubmnet.com A 207.65.33.78
+ 1646 28.691932661 10.203.96.46 → 10.203.96.113 DNS 223 Standard query response 0x1eea HTTPS hbopenbid.pubmatic.com CNAME hbprebid-v3.pubmnet.com CNAME hbopenbid-sin12.pubmnet.com SOA dns1.p06.nsone.net
+ 1647 28.691932731 10.203.96.46 → 10.203.96.113 DNS 105 Standard query response 0x7b04 A rtb.openx.net A 35.227.252.103 A 35.186.253.211
+ 1649 28.695197095 10.203.96.46 → 10.203.96.113 DNS 169 Standard query response 0x3ef2 HTTPS rtb.openx.net SOA ns-cloud-c1.googledomains.com
+ 1650 28.695197286 10.203.96.46 → 10.203.96.113 DNS 114 Standard query response 0x52fa A prebid.smilewanted.com A 104.20.40.222 A 172.66.154.88
+ 1651 28.695197356 10.203.96.46 → 10.203.96.113 DNS 152 Standard query response 0x0940 HTTPS prebid.smilewanted.com HTTPS
+ 1652 28.695197416 10.203.96.46 → 10.203.96.113 DNS 156 Standard query response 0xbde2 A fastlane.rubiconproject.com CNAME tagged-by.rubiconproject.net.akadns.net A 69.173.158.65
+ 1653 28.695197486 10.203.96.46 → 10.203.96.113 DNS 216 Standard query response 0x6478 HTTPS fastlane.rubiconproject.com CNAME tagged-by.rubiconproject.net.akadns.net SOA internal.akadns.net
+ 1654 28.695197556 10.203.96.46 → 10.203.96.113 DNS 102 Standard query response 0xc446 A mp.4dex.io A 104.18.34.178 A 172.64.153.78
+ 1655 28.695197626 10.203.96.46 → 10.203.96.113 DNS 140 Standard query response 0xdb55 HTTPS mp.4dex.io HTTPS
+ 1661 28.698458293 10.203.96.46 → 10.203.96.113 DNS 92 Standard query response 0xa530 A prebid.media.net A 34.120.63.153
+ 1662 28.698458744 10.203.96.46 → 10.203.96.113 DNS 150 Standard query response 0xd529 HTTPS prebid.media.net SOA a11-66.akam.net
+ 1663 28.698458814 10.203.96.46 → 10.203.96.113 DNS 96 Standard query response 0xd0c0 A ittr-asia.eskimi.com A 79.127.235.108
+ 1670 28.709653627 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0x079a A tlx.3lift.com
+ 1671 28.709719465 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0x2431 HTTPS tlx.3lift.com
+ 1675 28.712809931 10.203.96.46 → 10.203.96.113 DNS 176 Standard query response 0x5cc4 HTTPS ittr-asia.eskimi.com SOA ns-cloud-c1.googledomains.com
+ 1681 28.712810341 10.203.96.46 → 10.203.96.113 DNS 201 Standard query response 0xe6cb A g2.gumgum.com A 13.251.55.39 A 3.1.58.12 A 52.76.77.112 A 13.228.108.39 A 18.142.127.205 A 13.213.133.6 A 18.140.166.112 A 13.228.223.239
+ 1682 28.712872643 10.203.96.113 → 10.203.96.46 ICMP 204 Destination unreachable (Port unreachable)
+ 1685 28.712923832 10.203.96.46 → 10.203.96.113 DNS 158 Standard query response 0xcfc0 HTTPS g2.gumgum.com SOA ns-1141.awsdns-14.org
+ 1686 28.712923912 10.203.96.46 → 10.203.96.113 DNS 112 Standard query response 0x90b2 A htlb.casalemedia.com A 104.18.27.193 A 104.18.26.193
+ 1688 28.714347504 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0x0b5a A ib.adnxs.com
+ 1689 28.714395146 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0xef2b HTTPS ib.adnxs.com
+ 1694 28.716068724 10.203.96.46 → 10.203.96.113 DNS 146 Standard query response 0x4315 A grid-bidder.criteo.com CNAME in-ftd-170.sg1.vip.prod.criteo.com A 182.161.73.172
+ 1695 28.716069035 10.203.96.46 → 10.203.96.113 DNS 174 Standard query response 0xb478 HTTPS grid-bidder.criteo.com CNAME in-ftd-170.sg1.vip.prod.criteo.com SOA ns1.criteo.com
+ 1696 28.716069095 10.203.96.46 → 10.203.96.113 DNS 117 Standard query response 0xf8a1 HTTPS htlb.casalemedia.com HTTPS
+ 1697 28.716069165 10.203.96.46 → 10.203.96.113 DNS 96 Standard query response 0x0597 A shb.richaudience.com A 162.55.14.171
+ 1698 28.716069235 10.203.96.46 → 10.203.96.113 DNS 164 Standard query response 0x5b80 HTTPS shb.richaudience.com SOA ns-872.awsdns-45.net
+ 1707 28.719387014 10.203.96.46 → 10.203.96.113 DNS 302 Standard query response 0xc1ea A server.cpmstar.com A 198.24.167.212 A 198.24.167.211 A 198.24.167.210 A 198.24.163.91 A 198.24.167.171 A 198.24.167.170 A 198.24.161.244 A 198.24.167.252 A 198.24.163.90 A 198.24.167.172 A 198.24.160.76 A 198.24.163.92 A 198.24.167.251 A 198.24.167.250
+ 1708 28.719387715 10.203.96.46 → 10.203.96.113 DNS 165 Standard query response 0x5b35 HTTPS server.cpmstar.com SOA ns-1725.awsdns-23.co.uk
+ 1732 28.781668113 10.203.96.46 → 10.203.96.113 DNS 327 Standard query response 0x911f A ap.lijit.com CNAME vap.lijit.com CNAME emeas.vap.lijit.com CNAME eu.vap.lijit.com CNAME blackbird-prd-ew1-alb-87915139.eu-west-1.elb.amazonaws.com A 18.202.144.135 A 54.154.87.171 A 54.74.35.247 A 34.246.73.54 A 99.80.162.67 A 52.210.76.125 A 34.246.26.220 A 52.30.68.197
+ 1753 28.801251837 10.203.96.46 → 10.203.96.113 DNS 284 Standard query response 0x47b9 HTTPS ap.lijit.com CNAME vap.lijit.com CNAME emeas.vap.lijit.com CNAME eu.vap.lijit.com CNAME blackbird-prd-ew1-alb-87915139.eu-west-1.elb.amazonaws.com SOA ns-1053.awsdns-03.org
+ 1754 28.801353925 10.203.96.113 → 10.203.96.46 ICMP 312 Destination unreachable (Port unreachable)
+ 1785 28.995601455 10.203.96.113 → 10.203.96.46 DNS 78 Standard query 0x5d11 A m.media-amazon.com
+ 1786 28.995661421 10.203.96.113 → 10.203.96.46 DNS 78 Standard query 0x51fa HTTPS m.media-amazon.com
+ 1910 29.227521749 10.203.96.46 → 10.203.96.113 DNS 142 Standard query response 0x079a A tlx.3lift.com CNAME as-tlx.3lift.com A 54.169.90.152 A 54.151.166.244 A 3.0.107.214
+ 1926 29.230758747 10.203.96.46 → 10.203.96.113 DNS 181 Standard query response 0x2431 HTTPS tlx.3lift.com CNAME as-tlx.3lift.com SOA ns-1640.awsdns-13.co.uk
+ 1933 29.237308060 10.203.96.46 → 10.203.96.113 DNS 342 Standard query response 0x0b5a A ib.adnxs.com CNAME xandr-g-geo.trafficmanager.net CNAME ib.sin1.geoadnxs.com A 103.43.91.210 A 103.43.90.117 A 103.43.90.54 A 103.43.91.249 A 103.43.89.4 A 103.43.91.58 A 103.43.90.179 A 103.43.90.21 A 103.43.90.53 A 103.43.90.19 A 103.43.91.8 A 103.43.91.51
+ 1935 29.237308331 10.203.96.46 → 10.203.96.113 DNS 140 Standard query response 0xef2b HTTPS ib.adnxs.com SOA ns1.gslb.com
+ 2007 29.275137619 10.203.96.46 → 10.203.96.113 DNS 162 Standard query response 0x5d11 A m.media-amazon.com CNAME tp.c47710ee9-frontier.media-amazon.com CNAME c.media-amazon.com A 108.158.254.59
+ 2064 29.301258842 10.203.96.46 → 10.203.96.113 DNS 230 Standard query response 0x51fa HTTPS m.media-amazon.com CNAME tp.c47710ee9-frontier.media-amazon.com CNAME c.media-amazon.com SOA ns-707.awsdns-24.net
+ 2084 29.374122289 10.203.96.113 → 10.203.96.46 DNS 84 Standard query 0xeb1f A pubads.g.doubleclick.net
+ 2085 29.374219217 10.203.96.113 → 10.203.96.46 DNS 84 Standard query 0x0683 HTTPS pubads.g.doubleclick.net
+ 2239 29.639495269 10.203.96.113 → 10.203.96.46 DNS 86 Standard query 0x09e2 A pscontent.playstream.media
+ 2240 29.639554504 10.203.96.113 → 10.203.96.46 DNS 86 Standard query 0x58ae HTTPS pscontent.playstream.media
+ 2242 29.640143017 10.203.96.46 → 10.203.96.113 DNS 100 Standard query response 0xeb1f A pubads.g.doubleclick.net A 142.250.206.66
+ 2278 29.656901793 10.203.96.46 → 10.203.96.113 DNS 109 Standard query response 0x0683 HTTPS pubads.g.doubleclick.net HTTPS
+ 2325 29.694312728 10.203.96.113 → 10.203.96.46 DNS 77 Standard query 0xe6db A sync.connectad.io
+ 2326 29.694400429 10.203.96.113 → 10.203.96.46 DNS 77 Standard query 0xac1d HTTPS sync.connectad.io
+ 2343 29.759998972 10.203.96.113 → 10.203.96.46 DNS 84 Standard query 0x043b A token.rubiconproject.com
+ 2344 29.760064620 10.203.96.113 → 10.203.96.46 DNS 84 Standard query 0xb4be HTTPS token.rubiconproject.com
+ 2434 29.841345207 10.203.96.46 → 10.203.96.113 DNS 142 Standard query response 0x09e2 A pscontent.playstream.media CNAME pscontenthetzner.b-cdn.net A 156.146.56.170
+ 2445 29.851217789 10.203.96.46 → 10.203.96.113 DNS 189 Standard query response 0x58ae HTTPS pscontent.playstream.media CNAME pscontenthetzner.b-cdn.net SOA ns1.bunnydns.com
+ 2466 29.851525135 10.203.96.46 → 10.203.96.113 DNS 118 Standard query response 0xe6db A sync.connectad.io CNAME aws-global.connectad.io A 166.117.31.91
+ 2493 29.854656586 10.203.96.46 → 10.203.96.113 DNS 153 Standard query response 0xac1d HTTPS sync.connectad.io SOA amit.ns.cloudflare.com
+ 2494 29.854656676 10.203.96.46 → 10.203.96.113 DNS 149 Standard query response 0x043b A token.rubiconproject.com CNAME pixel.rubiconproject.net.akadns.net A 69.173.158.64
+ 2495 29.854656767 10.203.96.46 → 10.203.96.113 DNS 209 Standard query response 0xb4be HTTPS token.rubiconproject.com CNAME pixel.rubiconproject.net.akadns.net SOA internal.akadns.net
+ 2507 29.862570701 10.203.96.113 → 10.203.96.46 DNS 79 Standard query 0x9fcf A unagi-na.amazon.com
+ 2508 29.862615488 10.203.96.113 → 10.203.96.46 DNS 79 Standard query 0xc2d6 HTTPS unagi-na.amazon.com
+ 2590 29.944548295 10.203.96.46 → 10.203.96.113 DNS 207 Standard query response 0x9fcf A unagi-na.amazon.com A 44.215.117.206 A 44.215.137.64 A 44.215.129.38 A 44.215.136.177 A 44.215.141.185 A 44.199.180.130 A 44.215.118.141 A 44.215.132.248
+ 2597 29.944623922 10.203.96.46 → 10.203.96.113 DNS 154 Standard query response 0xc2d6 HTTPS unagi-na.amazon.com SOA ns-1296.awsdns-34.org
+ 2609 29.957931884 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0xa82f A www.youtube.com
+ 2610 29.958035676 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0xecdf HTTPS www.youtube.com
+ 2764 30.058961999 10.203.96.46 → 10.203.96.113 DNS 127 Standard query response 0xecdf HTTPS www.youtube.com CNAME youtube-ui.l.google.com HTTPS
+ 2767 30.058962450 10.203.96.46 → 10.203.96.113 DNS 368 Standard query response 0xa82f A www.youtube.com CNAME youtube-ui.l.google.com A 142.250.207.78 A 142.251.43.142 A 142.251.221.174 A 142.250.205.142 A 142.251.221.206 A 142.251.43.46 A 142.250.206.14 A 142.250.67.46 A 142.250.206.46 A 142.250.195.206 A 142.251.222.142 A 142.251.220.110 A 142.251.223.14 A 172.217.24.14 A 142.251.223.238 A 142.250.183.174
+ 3567 31.141715746 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x6073 A www.google.com
+ 3568 31.141854124 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0xc138 HTTPS www.google.com
+ 3569 31.145141095 10.203.96.46 → 10.203.96.113 DNS 90 Standard query response 0x6073 A www.google.com A 142.251.222.164
+ 3575 31.178421084 10.203.96.113 → 10.203.96.46 DNS 90 Standard query 0xabc7 A securepubads.g.doubleclick.net
+ 3576 31.178524314 10.203.96.113 → 10.203.96.46 DNS 90 Standard query 0x7207 HTTPS securepubads.g.doubleclick.net
+ 3577 31.185005357 10.203.96.46 → 10.203.96.113 DNS 99 Standard query response 0xc138 HTTPS www.google.com HTTPS
+ 3578 31.185082447 10.203.96.113 → 10.203.96.46 ICMP 127 Destination unreachable (Port unreachable)
+ 3582 31.215656819 10.203.96.46 → 10.203.96.113 DNS 106 Standard query response 0xabc7 A securepubads.g.doubleclick.net A 142.250.77.98
+ 3583 31.215657170 10.203.96.46 → 10.203.96.113 DNS 115 Standard query response 0x7207 HTTPS securepubads.g.doubleclick.net HTTPS
+ 3646 31.710739734 10.203.96.113 → 10.203.96.46 DNS 96 Standard query 0xfc30 A rr3---sn-3xg5a5-jv3s.googlevideo.com
+ 3647 31.710849767 10.203.96.113 → 10.203.96.46 DNS 96 Standard query 0x1c03 HTTPS rr3---sn-3xg5a5-jv3s.googlevideo.com
+ 3691 31.749873101 10.203.96.113 → 10.203.96.46 DNS 124 Standard query 0xf7ee A af36986e3a30f72f62c3b59fb96ea493.safeframe.googlesyndication.com
+ 3692 31.749988274 10.203.96.113 → 10.203.96.46 DNS 124 Standard query 0x910e HTTPS af36986e3a30f72f62c3b59fb96ea493.safeframe.googlesyndication.com
+ 3699 31.766714486 10.203.96.46 → 10.203.96.113 DNS 160 Standard query response 0xfc30 A rr3---sn-3xg5a5-jv3s.googlevideo.com CNAME rr3.sn-3xg5a5-jv3s.googlevideo.com A 103.171.225.238
+ 3700 31.769977020 10.203.96.46 → 10.203.96.113 DNS 204 Standard query response 0x1c03 HTTPS rr3---sn-3xg5a5-jv3s.googlevideo.com CNAME rr3.sn-3xg5a5-jv3s.googlevideo.com SOA ns1.google.com
+ 3705 31.777344010 10.203.96.113 → 10.203.96.46 DNS 85 Standard query 0x858f A ssbsync.smartadserver.com
+ 3706 31.777424585 10.203.96.113 → 10.203.96.46 DNS 85 Standard query 0x35c0 HTTPS ssbsync.smartadserver.com
+ 3730 31.802338401 10.203.96.46 → 10.203.96.113 DNS 140 Standard query response 0xf7ee A af36986e3a30f72f62c3b59fb96ea493.safeframe.googlesyndication.com A 142.250.182.65
+ 3731 31.802407925 10.203.96.46 → 10.203.96.113 DNS 149 Standard query response 0x910e HTTPS af36986e3a30f72f62c3b59fb96ea493.safeframe.googlesyndication.com HTTPS
+ 3745 31.813441522 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x33e1 A cdn.jsdelivr.net
+ 3746 31.813519543 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x6c70 HTTPS cdn.jsdelivr.net
+ 3761 31.828611412 10.203.96.46 → 10.203.96.113 DNS 329 Standard query response 0x858f A ssbsync.smartadserver.com CNAME ssbsync-geo.smartadserver.com CNAME usersync-geo-global.usersync-prod-sas.akadns.net CNAME ssbsync-apac1.smartadserver.com A 23.106.127.38 A 23.106.127.53 A 23.106.127.52 A 23.106.50.36 A 23.106.127.39 A 23.106.127.165 A 23.106.127.164 A 23.106.50.37
+ 3762 31.828611482 10.203.96.46 → 10.203.96.113 DNS 273 Standard query response 0x35c0 HTTPS ssbsync.smartadserver.com CNAME ssbsync-geo.smartadserver.com CNAME usersync-geo-global.usersync-prod-sas.akadns.net CNAME ssbsync-apac1.smartadserver.com SOA a11-65.akam.net
+ 3772 31.852076067 10.203.96.46 → 10.203.96.113 DNS 157 Standard query response 0x33e1 A cdn.jsdelivr.net CNAME cdn.jsdelivr.net.cdn.cloudflare.net A 104.16.174.226 A 104.16.175.226
+ 3773 31.855249168 10.203.96.46 → 10.203.96.113 DNS 197 Standard query response 0x6c70 HTTPS cdn.jsdelivr.net CNAME cdn.jsdelivr.net.cdn.cloudflare.net SOA ns1.cloudflare.net
+ 3845 31.926362814 10.203.96.113 → 10.203.96.46 DNS 85 Standard query 0x0c1d A tpc.googlesyndication.com
+ 3846 31.926439222 10.203.96.113 → 10.203.96.46 DNS 85 Standard query 0xd987 HTTPS tpc.googlesyndication.com
+ 3881 31.984070700 10.203.96.113 → 10.203.96.46 DNS 89 Standard query 0xb4ca A pagead2.googlesyndication.com
+ 3882 31.984166775 10.203.96.113 → 10.203.96.46 DNS 89 Standard query 0x75a8 HTTPS pagead2.googlesyndication.com
+ 3883 31.985254216 10.203.96.113 → 10.203.96.46 DNS 81 Standard query 0x3e05 A gat.sg1.as.criteo.com
+ 3884 31.985328881 10.203.96.113 → 10.203.96.46 DNS 81 Standard query 0x6c98 HTTPS gat.sg1.as.criteo.com
+ 3886 31.990780634 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0xd52e A googleads.g.doubleclick.net
+ 3887 31.990860408 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0x87f3 HTTPS googleads.g.doubleclick.net
+ 3888 31.991938601 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0x9673 A widgets.outbrain.com
+ 3889 31.992263699 10.203.96.113 → 10.203.96.46 DNS 80 Standard query 0x1119 HTTPS widgets.outbrain.com
+ 3899 32.000740347 10.203.96.113 → 10.203.96.46 DNS 98 Standard query 0x52ff A event-ingestor.judy.pnap.aditude.cloud
+ 3900 32.000822586 10.203.96.113 → 10.203.96.46 DNS 98 Standard query 0xce6d HTTPS event-ingestor.judy.pnap.aditude.cloud
+ 3907 32.058316818 10.203.96.113 → 10.203.96.46 DNS 96 Standard query 0x3294 A rr1---sn-3xg5a5-jv3s.googlevideo.com
+ 3908 32.058378888 10.203.96.113 → 10.203.96.46 DNS 96 Standard query 0x4024 HTTPS rr1---sn-3xg5a5-jv3s.googlevideo.com
+ 3928 32.131096794 10.203.96.113 → 10.203.96.46 DNS 96 Standard query 0x2580 A rr2---sn-3xg5a5-jv3s.googlevideo.com
+ 3929 32.131173893 10.203.96.113 → 10.203.96.46 DNS 96 Standard query 0xde0e HTTPS rr2---sn-3xg5a5-jv3s.googlevideo.com
+ 4040 32.247479113 10.203.96.46 → 10.203.96.113 DNS 101 Standard query response 0x0c1d A tpc.googlesyndication.com A 142.251.221.129
+ 4041 32.247479193 10.203.96.46 → 10.203.96.113 DNS 145 Standard query response 0xd987 HTTPS tpc.googlesyndication.com SOA ns1.google.com
+ 4046 32.250642044 10.203.96.46 → 10.203.96.113 DNS 105 Standard query response 0xb4ca A pagead2.googlesyndication.com A 142.251.221.98
+ 4047 32.250642455 10.203.96.46 → 10.203.96.113 DNS 114 Standard query response 0x75a8 HTTPS pagead2.googlesyndication.com HTTPS
+ 4048 32.250642535 10.203.96.46 → 10.203.96.113 DNS 145 Standard query response 0x3e05 A gat.sg1.as.criteo.com CNAME in-ftd-248.sg1.vip.prod.criteo.com A 182.161.73.166
+ 4049 32.250642615 10.203.96.46 → 10.203.96.113 DNS 183 Standard query response 0x6c98 HTTPS gat.sg1.as.criteo.com CNAME in-ftd-248.sg1.vip.prod.criteo.com SOA ns1.criteo.com
+ 4050 32.250642696 10.203.96.46 → 10.203.96.113 DNS 103 Standard query response 0xd52e A googleads.g.doubleclick.net A 142.250.205.66
+ 4055 32.253887725 10.203.96.46 → 10.203.96.113 DNS 112 Standard query response 0x87f3 HTTPS googleads.g.doubleclick.net HTTPS
+ 4056 32.253888286 10.203.96.46 → 10.203.96.113 DNS 180 Standard query response 0x9673 A widgets.outbrain.com CNAME wildcard.outbrain.com.edgekey.net CNAME e10883.g.akamaiedge.net A 23.61.113.193
+ 4060 32.257159507 10.203.96.46 → 10.203.96.113 DNS 239 Standard query response 0x1119 HTTPS widgets.outbrain.com CNAME wildcard.outbrain.com.edgekey.net CNAME e10883.g.akamaiedge.net SOA n0g.akamaiedge.net
+ 4061 32.257159957 10.203.96.46 → 10.203.96.113 DNS 290 Standard query response 0x52ff A event-ingestor.judy.pnap.aditude.cloud A 131.153.232.242 A 131.153.232.245 A 131.153.232.243 A 131.153.232.247 A 131.153.232.253 A 131.153.232.250 A 131.153.232.244 A 131.153.232.251 A 131.153.232.249 A 131.153.232.246 A 131.153.232.252 A 131.153.232.248
+ 4063 32.260415487 10.203.96.46 → 10.203.96.113 DNS 188 Standard query response 0xce6d HTTPS event-ingestor.judy.pnap.aditude.cloud SOA david.ns.cloudflare.com
+ 4064 32.260415828 10.203.96.46 → 10.203.96.113 DNS 160 Standard query response 0x3294 A rr1---sn-3xg5a5-jv3s.googlevideo.com CNAME rr1.sn-3xg5a5-jv3s.googlevideo.com A 103.171.225.236
+ 4075 32.276717735 10.203.96.46 → 10.203.96.113 DNS 204 Standard query response 0x4024 HTTPS rr1---sn-3xg5a5-jv3s.googlevideo.com CNAME rr1.sn-3xg5a5-jv3s.googlevideo.com SOA ns1.google.com
+ 4089 32.303087933 10.203.96.46 → 10.203.96.113 DNS 160 Standard query response 0x2580 A rr2---sn-3xg5a5-jv3s.googlevideo.com CNAME rr2.sn-3xg5a5-jv3s.googlevideo.com A 103.171.225.237
+ 4090 32.303088084 10.203.96.46 → 10.203.96.113 DNS 204 Standard query response 0xde0e HTTPS rr2---sn-3xg5a5-jv3s.googlevideo.com CNAME rr2.sn-3xg5a5-jv3s.googlevideo.com SOA ns1.google.com
+ 4191 32.372769353 10.203.96.113 → 10.203.96.46 DNS 69 Standard query 0x97e5 A u.4dex.io
+ 4192 32.372851622 10.203.96.113 → 10.203.96.46 DNS 69 Standard query 0xa019 HTTPS u.4dex.io
+ 4193 32.373744978 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0xc05d A sync.mathtag.com
+ 4194 32.373809602 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x382a HTTPS sync.mathtag.com
+ 4215 32.412802810 10.203.96.113 → 10.203.96.46 DNS 96 Standard query 0xfa2b A rr2---sn-3xg5a5-jv3l.googlevideo.com
+ 4216 32.412862636 10.203.96.113 → 10.203.96.46 DNS 96 Standard query 0x39eb HTTPS rr2---sn-3xg5a5-jv3l.googlevideo.com
+ 4217 32.415307610 10.203.96.113 → 10.203.96.46 DNS 90 Standard query 0x4f2f A securepubads.g.doubleclick.net
+ 4218 32.415359259 10.203.96.113 → 10.203.96.46 DNS 90 Standard query 0x653f HTTPS securepubads.g.doubleclick.net
+ 4240 32.425962626 10.203.96.46 → 10.203.96.113 DNS 106 Standard query response 0x4f2f A securepubads.g.doubleclick.net A 142.250.77.98
+ 4251 32.437990595 10.203.96.113 → 10.203.96.46 DNS 89 Standard query 0xd02e A pagead2.googlesyndication.com
+ 4252 32.438093524 10.203.96.113 → 10.203.96.46 DNS 89 Standard query 0xc9e1 HTTPS pagead2.googlesyndication.com
+ 4253 32.447533702 10.203.96.46 → 10.203.96.113 DNS 105 Standard query response 0xd02e A pagead2.googlesyndication.com A 142.251.221.98
+ 4254 32.450907110 10.203.96.113 → 10.203.96.46 DNS 71 Standard query 0x4f01 A i.ytimg.com
+ 4255 32.450980953 10.203.96.113 → 10.203.96.46 DNS 71 Standard query 0x30be HTTPS i.ytimg.com
+ 4305 32.503859538 10.203.96.46 → 10.203.96.113 DNS 85 Standard query response 0x97e5 A u.4dex.io A 34.149.40.38
+ 4308 32.503859739 10.203.96.46 → 10.203.96.113 DNS 145 Standard query response 0xa019 HTTPS u.4dex.io SOA bart.ns.cloudflare.com
+ 4310 32.503940334 10.203.96.46 → 10.203.96.113 DNS 154 Standard query response 0xc05d A sync.mathtag.com CNAME pixel-origin.mathtag.com CNAME pixel.sjc.mathtag.com A 74.121.143.240
+ 4318 32.507068097 10.203.96.46 → 10.203.96.113 DNS 222 Standard query response 0x382a HTTPS sync.mathtag.com CNAME pixel-origin.mathtag.com CNAME pixel.sjc.mathtag.com SOA ns-274.awsdns-34.com
+ 4351 32.530041383 10.203.96.46 → 10.203.96.113 DNS 160 Standard query response 0xfa2b A rr2---sn-3xg5a5-jv3l.googlevideo.com CNAME rr2.sn-3xg5a5-jv3l.googlevideo.com A 103.171.225.201
+ 4355 32.530138090 10.203.96.46 → 10.203.96.113 DNS 204 Standard query response 0x39eb HTTPS rr2---sn-3xg5a5-jv3l.googlevideo.com CNAME rr2.sn-3xg5a5-jv3l.googlevideo.com SOA ns1.google.com
+ 4356 32.530138190 10.203.96.46 → 10.203.96.113 DNS 115 Standard query response 0x653f HTTPS securepubads.g.doubleclick.net HTTPS
+ 4357 32.530138260 10.203.96.46 → 10.203.96.113 DNS 114 Standard query response 0xc9e1 HTTPS pagead2.googlesyndication.com HTTPS
+ 4358 32.530162066 10.203.96.113 → 10.203.96.46 ICMP 143 Destination unreachable (Port unreachable)
+ 4359 32.530172176 10.203.96.113 → 10.203.96.46 ICMP 142 Destination unreachable (Port unreachable)
+ 4367 32.533326360 10.203.96.46 → 10.203.96.113 DNS 231 Standard query response 0x4f01 A i.ytimg.com A 142.250.4.119 A 74.125.130.119 A 172.217.194.119 A 142.251.12.119 A 64.233.170.119 A 172.253.118.119 A 142.251.10.119 A 74.125.24.119 A 74.125.200.119 A 74.125.68.119
+ 4368 32.533326610 10.203.96.46 → 10.203.96.113 DNS 131 Standard query response 0x30be HTTPS i.ytimg.com SOA ns1.google.com
+ 4454 32.598147569 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0xeff1 A b1t-sindc1.outbrain.com
+ 4455 32.598218496 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0x47ee HTTPS b1t-sindc1.outbrain.com
+ 4456 32.598981360 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0xae14 A st.pubmatic.com
+ 4457 32.599056455 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0x9c05 HTTPS st.pubmatic.com
+ 4503 32.631263662 10.203.96.46 → 10.203.96.113 DNS 182 Standard query response 0xeff1 A b1t-sindc1.outbrain.com CNAME b1-sindc1.zemanta.com A 23.108.101.161 A 23.108.101.162 A 23.108.101.163 A 23.108.101.160
+ 4504 32.631263742 10.203.96.46 → 10.203.96.113 DNS 193 Standard query response 0x47ee HTTPS b1t-sindc1.outbrain.com CNAME b1-sindc1.zemanta.com SOA ian.ns.cloudflare.com
+ 4505 32.631263822 10.203.96.46 → 10.203.96.113 DNS 158 Standard query response 0xae14 A st.pubmatic.com CNAME ssptrackerv1.pubmnet.com CNAME ssptracker-sg4.pubmatic.com A 67.199.150.74
+ 4506 32.631263892 10.203.96.46 → 10.203.96.113 DNS 216 Standard query response 0x9c05 HTTPS st.pubmatic.com CNAME ssptrackerv1.pubmnet.com CNAME ssptracker-sg4.pubmatic.com SOA dns1.p01.nsone.net
+ 4509 32.641102060 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0x739b A b1t-sindc1.outbrain.com
+ 4510 32.641192044 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0x8269 HTTPS b1t-sindc1.outbrain.com
+ 4536 32.649607243 10.203.96.46 → 10.203.96.113 DNS 182 Standard query response 0x739b A b1t-sindc1.outbrain.com CNAME b1-sindc1.zemanta.com A 23.108.101.160 A 23.108.101.163 A 23.108.101.162 A 23.108.101.161
+ 4541 32.665417199 10.203.96.46 → 10.203.96.113 DNS 193 Standard query response 0x8269 HTTPS b1t-sindc1.outbrain.com CNAME b1-sindc1.zemanta.com SOA ian.ns.cloudflare.com
+ 4543 32.665527512 10.203.96.113 → 10.203.96.46 ICMP 221 Destination unreachable (Port unreachable)
+ 4644 32.757464210 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0x807e A googleads.g.doubleclick.net
+ 4645 32.757534946 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0xa862 HTTPS googleads.g.doubleclick.net
+ 4661 32.765392648 10.203.96.46 → 10.203.96.113 DNS 103 Standard query response 0x807e A googleads.g.doubleclick.net A 142.250.205.66
+ 4685 32.776841313 10.203.96.113 → 10.203.96.46 DNS 79 Standard query 0xd9ea A dsp.outbrainimg.com
+ 4686 32.776916789 10.203.96.113 → 10.203.96.46 DNS 79 Standard query 0x5cc9 HTTPS dsp.outbrainimg.com
+ 4687 32.777444226 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0x1d1c A sync.srv.stackadapt.com
+ 4688 32.777494583 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0xad16 HTTPS sync.srv.stackadapt.com
+ 4690 32.781865865 10.203.96.113 → 10.203.96.46 DNS 84 Standard query 0xc85f A media.grid.bidswitch.net
+ 4691 32.781944257 10.203.96.113 → 10.203.96.46 DNS 84 Standard query 0x6765 HTTPS media.grid.bidswitch.net
+ 4886 33.129235966 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0x7361 A grid-mercury.criteo.com
+ 4887 33.129356268 10.203.96.113 → 10.203.96.46 DNS 83 Standard query 0x254f HTTPS grid-mercury.criteo.com
+ 4987 33.240237636 10.203.96.46 → 10.203.96.113 DNS 112 Standard query response 0xa862 HTTPS googleads.g.doubleclick.net HTTPS
+ 4988 33.240337829 10.203.96.113 → 10.203.96.46 ICMP 140 Destination unreachable (Port unreachable)
+ 4989 33.243530027 10.203.96.46 → 10.203.96.113 DNS 190 Standard query response 0xd9ea A dsp.outbrainimg.com CNAME dsp.outbrainimg.edgekey.net CNAME e343460.d.akamaiedge.net A 23.3.70.201 A 23.3.70.202
+ 4990 33.243530338 10.203.96.46 → 10.203.96.113 DNS 233 Standard query response 0x5cc9 HTTPS dsp.outbrainimg.com CNAME dsp.outbrainimg.edgekey.net CNAME e343460.d.akamaiedge.net SOA n0d.akamaiedge.net
+ 4993 33.243530558 10.203.96.46 → 10.203.96.113 DNS 211 Standard query response 0x1d1c A sync.srv.stackadapt.com A 3.216.119.34 A 3.210.52.97 A 34.226.18.146 A 3.215.25.183 A 3.230.186.41 A 3.212.181.76 A 3.213.145.227 A 3.209.224.74
+ 4994 33.243530638 10.203.96.46 → 10.203.96.113 DNS 181 Standard query response 0xad16 HTTPS sync.srv.stackadapt.com SOA ns-926.awsdns-51.net
+ 5066 33.320648767 10.203.96.46 → 10.203.96.113 DNS 224 Standard query response 0x6765 HTTPS media.grid.bidswitch.net CNAME pool-gce-jp.verona.iponweb.net SOA ns-cloud-d1.googledomains.com
+ 5079 33.339178080 10.203.96.46 → 10.203.96.113 DNS 144 Standard query response 0xc85f A media.grid.bidswitch.net CNAME pool-gce-jp.verona.iponweb.net A 35.213.34.3
+ 5227 33.603982072 10.203.96.46 → 10.203.96.113 DNS 147 Standard query response 0x7361 A grid-mercury.criteo.com CNAME in-ftd-103.sg1.vip.prod.criteo.com A 182.161.73.145
+ 5228 33.603982443 10.203.96.46 → 10.203.96.113 DNS 175 Standard query response 0x254f HTTPS grid-mercury.criteo.com CNAME in-ftd-103.sg1.vip.prod.criteo.com SOA ns1.criteo.com
+ 5365 33.861075763 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0x68b2 A i1.ytimg.com
+ 5366 33.861154374 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0x0fb4 HTTPS i1.ytimg.com
+ 5571 34.170322499 10.203.96.46 → 10.203.96.113 DNS 132 Standard query response 0x0fb4 HTTPS i1.ytimg.com SOA ns1.google.com
+ 5572 34.170322809 10.203.96.46 → 10.203.96.113 DNS 168 Standard query response 0x68b2 A i1.ytimg.com A 142.251.10.100 A 142.251.10.139 A 142.251.10.102 A 142.251.10.101 A 142.251.10.138 A 142.251.10.113
+ 5919 34.659094065 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0x0655 A rtb-csync.smartadserver.com
+ 5920 34.659174399 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0x3483 HTTPS rtb-csync.smartadserver.com
+ 6018 34.750636814 10.203.96.113 → 10.203.96.46 DNS 85 Standard query 0x040a A tpc.googlesyndication.com
+ 6019 34.750691940 10.203.96.113 → 10.203.96.46 DNS 85 Standard query 0xb93f HTTPS tpc.googlesyndication.com
+ 6038 34.760627777 10.203.96.46 → 10.203.96.113 DNS 101 Standard query response 0x040a A tpc.googlesyndication.com A 142.251.221.129
+ 6131 34.866886484 10.203.96.113 → 10.203.96.46 DNS 78 Standard query 0xe625 A ad.doubleclick.net
+ 6132 34.867024620 10.203.96.113 → 10.203.96.46 DNS 78 Standard query 0xfada HTTPS ad.doubleclick.net
+ 6165 34.957833098 10.203.96.46 → 10.203.96.113 DNS 269 Standard query response 0x0655 A rtb-csync.smartadserver.com CNAME rtb-csync-geo.usersync-prod-sas.akadns.net CNAME rtb-csync-apac1.smartadserver.com A 23.106.50.38 A 23.106.50.39 A 23.106.127.169 A 23.106.127.57 A 23.106.127.56 A 23.106.127.170
+ 6166 34.957833459 10.203.96.46 → 10.203.96.113 DNS 245 Standard query response 0x3483 HTTPS rtb-csync.smartadserver.com CNAME rtb-csync-geo.usersync-prod-sas.akadns.net CNAME rtb-csync-apac1.smartadserver.com SOA a11-65.akam.net
+ 6280 35.082782011 10.203.96.46 → 10.203.96.113 DNS 145 Standard query response 0xb93f HTTPS tpc.googlesyndication.com SOA ns1.google.com
+ 6282 35.082897333 10.203.96.113 → 10.203.96.46 ICMP 173 Destination unreachable (Port unreachable)
+ 6337 35.237828413 10.203.96.46 → 10.203.96.113 DNS 94 Standard query response 0xe625 A ad.doubleclick.net A 142.251.43.70
+ 6342 35.251541859 10.203.96.113 → 10.203.96.46 DNS 124 Standard query 0x9b33 A 8a3c0f29066d95a68edc4504afda68ac.safeframe.googlesyndication.com
+ 6343 35.251595022 10.203.96.113 → 10.203.96.46 DNS 124 Standard query 0x9bf5 HTTPS 8a3c0f29066d95a68edc4504afda68ac.safeframe.googlesyndication.com
+ 6365 35.293769158 10.203.96.46 → 10.203.96.113 DNS 103 Standard query response 0xfada HTTPS ad.doubleclick.net HTTPS
+ 6366 35.293824164 10.203.96.113 → 10.203.96.46 ICMP 131 Destination unreachable (Port unreachable)
+ 6542 35.590705918 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0x3703 A yt3.ggpht.com
+ 6543 35.590834946 10.203.96.113 → 10.203.96.46 DNS 73 Standard query 0x6869 HTTPS yt3.ggpht.com
+ 6809 36.338277645 10.203.96.46 → 10.203.96.113 DNS 140 Standard query response 0x9b33 A 8a3c0f29066d95a68edc4504afda68ac.safeframe.googlesyndication.com A 142.251.43.193
+ 6895 36.555493700 10.203.96.46 → 10.203.96.113 DNS 149 Standard query response 0x9bf5 HTTPS 8a3c0f29066d95a68edc4504afda68ac.safeframe.googlesyndication.com HTTPS
+ 6896 36.555523788 10.203.96.113 → 10.203.96.46 ICMP 177 Destination unreachable (Port unreachable)
+ 6926 36.562065604 10.203.96.46 → 10.203.96.113 DNS 137 Standard query response 0x3703 A yt3.ggpht.com CNAME photos-ugc.l.googleusercontent.com A 142.251.221.161
+ 6927 36.565313031 10.203.96.46 → 10.203.96.113 DNS 181 Standard query response 0x6869 HTTPS yt3.ggpht.com CNAME photos-ugc.l.googleusercontent.com SOA ns1.google.com
+ 7175 37.151150009 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0x2f60 A t.adx.opera.com
+ 7176 37.151202009 10.203.96.113 → 10.203.96.46 DNS 75 Standard query 0xa249 HTTPS t.adx.opera.com
+ 7177 37.151672331 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0xda48 A match.adsrvr.org
+ 7178 37.151716295 10.203.96.113 → 10.203.96.46 DNS 76 Standard query 0x9ca6 HTTPS match.adsrvr.org
+ 7313 37.575309013 10.203.96.46 → 10.203.96.113 DNS 118 Standard query response 0x2f60 A t.adx.opera.com CNAME outspot2-ams.adx.opera.com A 82.145.213.8
+ 7318 37.601175056 10.203.96.46 → 10.203.96.113 DNS 163 Standard query response 0xa249 HTTPS t.adx.opera.com CNAME outspot2-ams.adx.opera.com SOA nic1.opera.com
+ 7322 37.604445219 10.203.96.46 → 10.203.96.113 DNS 140 Standard query response 0xda48 A match.adsrvr.org A 35.71.131.137 A 52.223.40.198 A 3.33.220.150 A 15.197.193.217
+ 7326 37.607724941 10.203.96.46 → 10.203.96.113 DNS 150 Standard query response 0x9ca6 HTTPS match.adsrvr.org SOA dns1.p08.nsone.net
+ 7396 37.768005089 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0x6c7c A ep1.adtrafficquality.google
+ 7397 37.768077007 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0xca26 HTTPS ep1.adtrafficquality.google
+ 7417 37.832557665 10.203.96.46 → 10.203.96.113 DNS 103 Standard query response 0x6c7c A ep1.adtrafficquality.google A 142.250.207.66
+ 7428 37.856614562 10.203.96.46 → 10.203.96.113 DNS 112 Standard query response 0xca26 HTTPS ep1.adtrafficquality.google HTTPS
+ 7429 37.856666592 10.203.96.113 → 10.203.96.46 ICMP 140 Destination unreachable (Port unreachable)
+ 7643 38.182364116 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0xce8c A ep2.adtrafficquality.google
+ 7644 38.182437667 10.203.96.113 → 10.203.96.46 DNS 87 Standard query 0x0ea2 HTTPS ep2.adtrafficquality.google
+ 7646 38.187840650 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x5fbe A www.google.com
+ 7647 38.187930933 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x8e60 HTTPS www.google.com
+ 7663 38.280030535 10.203.96.46 → 10.203.96.113 DNS 90 Standard query response 0x5fbe A www.google.com A 142.251.222.164
+ 7887 38.703743676 10.203.96.46 → 10.203.96.113 DNS 103 Standard query response 0xce8c A ep2.adtrafficquality.google A 142.251.43.129
+ 7892 38.729427562 10.203.96.46 → 10.203.96.113 DNS 147 Standard query response 0x0ea2 HTTPS ep2.adtrafficquality.google SOA ns1.google.com
+ 7917 38.831059015 10.203.96.46 → 10.203.96.113 DNS 99 Standard query response 0x8e60 HTTPS www.google.com HTTPS
+ 7918 38.831106796 10.203.96.113 → 10.203.96.46 ICMP 127 Destination unreachable (Port unreachable)
+ 8171 39.442267975 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0xc7c9 A www.temu.com
+ 8172 39.442367526 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0xc994 HTTPS www.temu.com
+ 8342 39.861817693 10.203.96.46 → 10.203.96.113 DNS 194 Standard query response 0xc7c9 A www.temu.com CNAME www-temu-com.trafficmanager.net CNAME www.temu.com.cdn.cloudflare.net A 172.66.1.242 A 162.159.141.246
+ 8355 39.898625665 10.203.96.46 → 10.203.96.113 DNS 234 Standard query response 0xc994 HTTPS www.temu.com CNAME www-temu-com.trafficmanager.net CNAME www.temu.com.cdn.cloudflare.net SOA ns1.cloudflare.net
+ 8574 40.211473706 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0x43cc A facebook.com
+ 8575 40.211554631 10.203.96.113 → 10.203.96.46 DNS 72 Standard query 0x6e0a HTTPS facebook.com
+ 8694 40.457692091 10.203.96.46 → 10.203.96.113 DNS 88 Standard query response 0x43cc A facebook.com A 157.240.23.35
+ 8699 40.464221426 10.203.96.46 → 10.203.96.113 DNS 159 Standard query response 0x6e0a HTTPS facebook.com HTTPS HTTPS
+ 9015 41.048405821 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x532e A t3.gstatic.com
+ 9016 41.048484781 10.203.96.113 → 10.203.96.46 DNS 74 Standard query 0x76eb HTTPS t3.gstatic.com
+ 9025 41.109741991 10.203.96.46 → 10.203.96.113 DNS 90 Standard query response 0x532e A t3.gstatic.com A 142.251.43.132
+ 9034 41.123390514 10.203.96.46 → 10.203.96.113 DNS 134 Standard query response 0x76eb HTTPS t3.gstatic.com SOA ns1.google.com
+ 9035 41.123448765 10.203.96.113 → 10.203.96.46 ICMP 162 Destination unreachable (Port unreachable)
