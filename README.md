@@ -93,23 +93,63 @@ first  i  use  extract only http/https/tls packet
 
   ***tlc***
 
-  <img width="1897" height="957" alt="Image" src="https://github.com/user-attachments/assets/bfd9c068-54fc-4d7c-9eba-ba8fbc36bd7e" />
-  
-      
+  <img width="1897" height="957" alt="Image" src="https://github.com/user-attachments/assets/29ec1f7f-3cfc-47a7-b0c4-d0622ebfc44a" />   
+
+
+ We can see information about TLS — it’s a TCP-connected protocol.
+The version is TLS 1.3, and the source IP & destination IP, as well as the MAC addresses, are also visible.
+
+
+
+-----------------------------------------------------------------------
+
+
+NEXT we  use  tcp filter 
+
+     you  can use  this  in the  wirshark  add filter area (apply as a dispay filter )
+
+     tcp ---> see the  tcp connection 
+     tcp.port == 443 --> filtered only httpds used tcp connection
+     tcp.port == 80 -->  use  this  for  http used tcp  connection
+     
+<img width="1902" height="947" alt="Image" src="https://github.com/user-attachments/assets/b23fdb28-9bbe-420f-98db-1f89caf070f4" />
+     
+
+
+
+why we can do  ICMP          
+
+
+      add icmp in apply filter 
+
+
+  <img width="1910" height="958" alt="Image" src="https://github.com/user-attachments/assets/edae0ea9-1c1b-49c2-a607-1f22eb68353d" />    
 
 
 
 
+i try DNS
 
+     dns --> apply as  filter       
 
+<img width="1914" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a047b88b-c884-4632-9e89-e1766bcd1c39" />
 
 
 
     
+    I used the DNS filter in wirshark to view the domain names I had browsed, by extracting DNS query packets from the capture file.
 
 
 
 
+
+
+finaly i check  the arp  request 
+
+    apply filter arp 
+
+
+  <img width="1912" height="945" alt="Image" src="https://github.com/user-attachments/assets/1a37d50c-ded4-4faa-86d2-1abf11ce19f4" />  
 
 
 
